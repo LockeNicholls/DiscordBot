@@ -1,0 +1,16 @@
+{
+  "name": "bot",
+  "version": "0.0.1",
+  "description": "Tells you how much u suck",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Locke",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "request": "^2.88.0",
+    "stringformat": "0.0.5"
+  }
+}
